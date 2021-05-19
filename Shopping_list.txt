@@ -5,5 +5,4 @@ Shopping list:
 3. Cabages
 4. Cereal
 5. Onios
-6. Pickles
-7. Apples
+6. Apples
