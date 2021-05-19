@@ -4,3 +4,5 @@ Shopping list:
 2. Bananas
 3. Cabages
 4. Cereal
+5. Onios
+6. Pickles
